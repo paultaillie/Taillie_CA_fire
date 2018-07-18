@@ -1,2 +1,3 @@
 # Taillie_CA_fire
-repository for code for Ecosphere paper
+
+This was an existing R project that was moved to github after publication.
